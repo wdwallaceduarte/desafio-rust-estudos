@@ -1,0 +1,8 @@
+[package]
+name = "treinamento_rust"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+Inflector = "0.11"
+regex = "1"
